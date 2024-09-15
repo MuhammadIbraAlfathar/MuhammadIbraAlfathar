@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ibra Alfathar</h1>
-<h3 align="center">I am an Informatics Engineering student, currently I am studying and very interested in Software Development, especially Mobile Development.</h3>
+<h3 align="center">I am an Informatics Engineering student, currently I am studying and very interested in Software Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadibraalfathar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadibraalfathar" /> </p>
 
